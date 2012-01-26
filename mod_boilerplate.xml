@@ -1,0 +1,26 @@
+<extension
+	type="module"
+	version="1.7"
+	client="site">
+	<name>mod_boilerplate</name>
+	<author>Tobias Wallenqvist</author>
+	<creationDate>December 2011</creationDate>
+	<copyright>Copyright (C) 2005 - 2012 Tobias Wallenqvist. All rights reserved.</copyright>
+	<license></license>
+	<authorEmail>tobias@aloq.se</authorEmail>
+	<authorUrl>www.aloq.se</authorUrl>
+	<version>1.0</version>
+	<description></description>
+	<files>
+		<filename module="mod_boilerplate">mod_boilerplate.php</filename>
+		<folder>tmpl</folder>
+		<filename>index.html</filename>
+		<filename>helper.php</filename>
+	</files>
+	<config>
+		<fields name="params">
+			<fieldset name="basic">
+			</fieldset>
+		</fields>
+	</config>
+</extension>
